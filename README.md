@@ -1,7 +1,7 @@
 # <p align="center">**Welcome to my Github page!**</p>
 
 [<p align="center">
-    <img src="./Images/linkIn-logo.jpg" width="150">](https://www.linkedin.com/in/lee-hall-833b8419b/)
+    <img src="/workspaces/My_Front_Page/Images/linkedIn-logo.jpg" width="150">](www.linkedin.com/in/leehall-inspired)
 </p>
 
 ## <p align="center">**Technical skiils and Experience**</p>
